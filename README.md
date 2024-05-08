@@ -3,7 +3,9 @@ AdminHub is a versatile task management system designed to streamline admin task
 
 ## Intended Features
 Task Management: Create, organize, and track tasks with ease.
+
 Booking Management: Manage tasks, appointments, classes, and more.
+
 User Roles and Permissions: Assign roles and permissions to users for better organization.
 Notifications: Receive notifications for upcoming tasks and bookings.
 Integration: Integrate with other tools and services for enhanced functionality.
